@@ -1,0 +1,11 @@
+div{
+   height: 100px;
+   width: 100px; 
+   background-color: dodgerblue;
+   color: wheat;
+   border: 1px solid black;
+}
+
+.btn1{
+    color: blue;
+}

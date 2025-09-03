@@ -1,0 +1,13 @@
+body{
+    background-color: yellow;
+
+}
+
+.para{
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+     color: tomato;
+     border: 2px solid blueviolet;
+}
+
